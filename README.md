@@ -45,7 +45,7 @@ Unity Version: 6000.0.3
 ## **Installation & Usage**
 1. Clone the repository:
 ```sh
-git clone https://github.com/Jalen-Moore/the-legendary-pb-j-scripts.git
+git clone https://github.com/jalenrichardmoore/the-legendary-pb-j-scripts.git
 ```
 
 2. Copy the scripts into your Unity project's 'Assets/Scripts/' folder
